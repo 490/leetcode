@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/poi-3.17" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/poi-3.17/docs/apidocs" />
+        </JAVADOC>
+        <SOURCES />
+        <jarDirectory url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/poi-3.17" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/jxl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC>
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-appengine/javadoc" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-async/javadoc" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/javadoc" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-examples/javadoc" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-http2-support/javadoc" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-media-support/javadoc" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-stream/javadoc" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-appengine/src/main/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-appengine/src/test/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-async/src/main/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-async/src/test/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/internal-async/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/internal-http/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/internal-json/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/internal-logging/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/internal-util/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/jmx/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/main/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/test/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-examples/src/main/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-http2-support/src/main/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-http2-support/src/test/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-media-support/src/main/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-media-support/src/test/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-stream/src/main/java" />
+          <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-stream/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/lib/twitter4j-async-4.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/lib/twitter4j-core-4.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/lib/twitter4j-examples-4.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/lib/twitter4j-media-support-4.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/lib/twitter4j-stream-4.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="javadoc" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/jsoup-1.11.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="cassandra-java-driver-3.5" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library name="guava">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/android/guava-testlib/src" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/android/guava-testlib/test" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/android/guava-tests/benchmark" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/android/guava-tests/test" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/android/guava/src" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/com/google/common/base/super" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/com/google/common/cache/super" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/com/google/common/collect/super" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/com/google/common/escape/super" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/com/google/common/util/concurrent/super" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/java/lang/super" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/java/util/super" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/test" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/test-super/com/google/common/collect/testing/super" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/test-super/com/google/common/math/super" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/test-super/com/google/common/primitives/super" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/test-super/com/google/common/testing/super" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/test-super/com/google/common/util/concurrent/super" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-testlib/src" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-testlib/test" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-tests/benchmark" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava-tests/test" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/guava-24.1.1/guava/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="htrace">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../act/Testcase/htrace-4.3.0-incubating/htrace-core4/src/main/java" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/htrace-4.3.0-incubating/htrace-core4/src/test/java" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/htrace-4.3.0-incubating/htrace-flume/src/main/java" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/htrace-4.3.0-incubating/htrace-flume/src/test/java" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/htrace-4.3.0-incubating/htrace-hbase/src/main/java" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/htrace-4.3.0-incubating/htrace-hbase/src/test/java" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/htrace-4.3.0-incubating/htrace-htraced/src/main/java" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/htrace-4.3.0-incubating/htrace-htraced/src/test/java" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/htrace-4.3.0-incubating/htrace-zipkin/src/main/java" />
+          <root url="file://$MODULE_DIR$/../act/Testcase/htrace-4.3.0-incubating/htrace-zipkin/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

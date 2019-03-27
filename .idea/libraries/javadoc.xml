@@ -1,0 +1,63 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../act/Testcase/cassandra-java-driver-3.5.0" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-appengine/javadoc" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-async/javadoc" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/javadoc" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-examples/javadoc" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-http2-support/javadoc" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-media-support/javadoc" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-stream/javadoc" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/cassandra-java-driver-3.5.0/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-appengine/src/main/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-appengine/src/test/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-async/src/main/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-async/src/test/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/internal-async/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/internal-http/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/internal-json/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/internal-logging/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/internal-util/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/jmx/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/main/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-core/src/test/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-examples/src/main/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-http2-support/src/main/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-http2-support/src/test/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-media-support/src/main/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-media-support/src/test/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-stream/src/main/java" />
+      <root url="file://C:/Program Files (x86)/Java/jdk1.8.0_151/jre/lib/twitter4j/twitter4j-stream/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/android/guava-testlib/src" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/android/guava-testlib/test" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/android/guava-tests/benchmark" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/android/guava-tests/test" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/android/guava/src" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/com/google/common/base/super" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/com/google/common/cache/super" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/com/google/common/collect/super" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/com/google/common/escape/super" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/com/google/common/util/concurrent/super" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/java/lang/super" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/src-super/java/util/super" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/test" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/test-super/com/google/common/collect/testing/super" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/test-super/com/google/common/math/super" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/test-super/com/google/common/primitives/super" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/test-super/com/google/common/testing/super" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-gwt/test-super/com/google/common/util/concurrent/super" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-testlib/src" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-testlib/test" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-tests/benchmark" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava-tests/test" />
+      <root url="file://$PROJECT_DIR$/../act/Testcase/guava-24.1.1/guava/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../act/Testcase/cassandra-java-driver-3.5.0" recursive="false" />
+  </library>
+</component>
