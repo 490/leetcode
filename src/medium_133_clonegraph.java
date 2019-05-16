@@ -47,10 +47,4 @@ public class medium_133_clonegraph
         return list;
     }
 
-    public static void main(String[] args) {
-        medium_133_clonegraph clonegraph = new medium_133_clonegraph();
-        List<Node> list = new ArrayList<>();
-        list.add();
-        Node node = new Node(1,list);
-    }
 }
